@@ -1,4 +1,5 @@
-* c788979 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+* 389e8ea (HEAD -> main, tag: v1.2.0, origin/main, origin/HEAD) docs: Add final project artifacts
+* c788979 docs: Add changelog
 | * 0f6ecad (origin/feature/another-feature, feature/another-feature) Bad commit
 |/  
 * d93c805 (tag: v1.1.0, tag: v1.0.0) feat: Add new feature
